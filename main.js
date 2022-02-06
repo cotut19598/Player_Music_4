@@ -101,7 +101,7 @@ const app = {
             image: './assign/img/nevada.jpeg'
         },
         
-         {
+        {
             name: 'Không Bằng',
             singer: 'Na',
             path: './assign/sings/Không Bằng - Na _ Official Music Video.mp3',
