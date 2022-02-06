@@ -104,7 +104,7 @@ const app = {
         {
             name: 'Không Bằng',
             singer: 'Na',
-            path: './assign/sings/Không Bằng - Na _ Official Music Video.mp3',
+            path: './assign/sings/yt5s.com - Nói Với Em Một Lời Trước Khi Xa Rời _ Không Bằng (RIN Music Remix) - Na (128 kbps).mp3',
             image: './assign/0 =.jpeg'
         }
     ],
