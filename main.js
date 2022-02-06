@@ -99,6 +99,13 @@ const app = {
             singer: 'Vicetone',
             path: './assign/sings/Vicetone - Nevada (ft. Cozi Zuehlsdorff).mp3',
             image: './assign/img/nevada.jpeg'
+        },
+        
+         {
+            name: 'Không Bằng',
+            singer: 'Na',
+            path: './assign/sings/Vicetone - Nevada (ft. Cozi Zuehlsdorff).mp3',
+            image: './assign/img/nevada.jpeg'
         }
     ],
     render: function(){
