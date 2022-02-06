@@ -105,7 +105,7 @@ const app = {
             name: 'Không Bằng',
             singer: 'Na',
             path: './assign/sings/Không Bằng - Na _ Official Music Video.mp3',
-            image: './assign/img/nevada.jpeg'
+            image: './assign/khong bang.jfif'
         }
     ],
     render: function(){
