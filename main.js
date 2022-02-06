@@ -105,7 +105,7 @@ const app = {
             name: 'Không Bằng',
             singer: 'Na',
             path: './assign/sings/yt5s.com - Nói Với Em Một Lời Trước Khi Xa Rời _ Không Bằng (RIN Music Remix) - Na (128 kbps).mp3',
-            image: './assign/0 =.jpeg'
+            image: './assign/img/0 =.jpeg'
         }
     ],
     render: function(){
