@@ -112,7 +112,7 @@ const app = {
             name: 'Yêu Là Cưới',
             singer: 'Phát Hồ X2X',
             path: './assign/sings/YÊU LÀ CƯỚI - PHÁT HỒ X2X OFFICIAL MUSIC VIDEO LYRICS_160k.mp3',
-            image: './assign/img/yeulacuoi.jpeg'
+            image: './assign/img/yeulacuoi.png'
         }
     ],
     render: function(){
