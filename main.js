@@ -106,6 +106,13 @@ const app = {
             singer: 'Na',
             path: './assign/sings/yt5s.com - Nói Với Em Một Lời Trước Khi Xa Rời _ Không Bằng (RIN Music Remix) - Na (128 kbps).mp3',
             image: './assign/img/0 =.jpeg'
+        },
+        
+        {
+            name: 'Yêu Là Cưới',
+            singer: 'Phát Hồ X2X',
+            path: './assign/sings/YÊU LÀ CƯỚI - PHÁT HỒ X2X OFFICIAL MUSIC VIDEO LYRICS_160k.mp3',
+            image: './assign/img/yeulacuoi.jpeg'
         }
     ],
     render: function(){
