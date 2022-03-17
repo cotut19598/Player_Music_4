@@ -113,7 +113,30 @@ const app = {
             singer: 'Phát Hồ X2X',
             path: './assign/sings/YÊU LÀ CƯỚI - PHÁT HỒ X2X OFFICIAL MUSIC VIDEO LYRICS_160k.mp3',
             image: './assign/img/yeulacuoi.png'
+        },
+        
+        {
+            name: 'Tuy Hong Nhan',
+            singer: 'Nhạc Không Lời Buồn Thấu Tim',
+            path: './assign/sings/TuyHongNhanTanThuyHuOST-LuuYDoa-2920807.mp3',
+            image: './assign/img/img2.jpeg'
+        },
+        
+        {
+            name: 'FutariNoKimochi',
+            singer: 'OST Inuyasha',
+            path: './assign/sings/FutariNoKimochi-VA_4gc8n.mp3',
+            image: './assign/img/img1.jpeg'
+        },
+        
+        {
+            name: 'Victory',
+            singer: 'Two Steps From Hell',
+            path: './assign/sings/Victory-TwoStepsFromHell-3890867.mp3',
+            image: './assign/img/img3.jpeg'
         }
+        
+        
     ],
     render: function(){
         htmls = this.songs.map((song, index) => {
