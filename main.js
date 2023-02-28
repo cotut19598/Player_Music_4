@@ -134,9 +134,42 @@ const app = {
             singer: 'Two Steps From Hell',
             path: './assign/sings/Victory-TwoStepsFromHell-3890867.mp3',
             image: './assign/img/img3.jpeg'
+        },
+
+        {
+            name: 'Thay Tôi Yêu Cô Ấy',
+            singer: 'Thanh Hưng',
+            path: './assign/sings/ThayToiYeuCoAy-ThanhHungIdol-6042201.mp3',
+            image: './assign/img/thaytoiyeucoay.jpg'
+        },
+
+        {
+            name: 'Hôm Nay Em Cưới Rồi',
+            singer: 'Khải Đăng',
+            path: './assign/sings/TaiNhacHay.Biz - Hôm Nay Em Cưới Rồi (Live).mp3',
+            image: './assign/img/homnayemcuoiroi.jpg'
+        },
+
+        {
+            name: 'Falling In Love',
+            singer: 'Chanh',
+            path: './assign/sings/FallingInLove-NaNgocAnh-8521307.mp3',
+            image: './assign/img/fallinginlove.jpg'
+        },
+
+        {
+            name: 'Em Là Kẻ Đáng Thương',
+            singer: 'Phát Huy T4',
+            path: './assign/sings/EmLaKeDangThuong-PhatHuyT4-8504796.mp3',
+            image: './assign/img/emlakedangthuong.jpg'
+        },
+        
+        {
+            name: 'Có Không Giữ Mất Đừng Tìm',
+            singer: 'Trúc Nhân',
+            path: './assign/sings/CoKhongGiuMatDungTimCukakRemix-TrucNhan-7334066.mp3',
+            image: './assign/img/cokhonggiumatdungtim.jpg'
         }
-        
-        
     ],
     render: function(){
         htmls = this.songs.map((song, index) => {
